@@ -1,6 +1,10 @@
-## EFES: EpiDoc Front-End Services
+# Julia Balbilla Inscriptions in EFES
 
-* EFES release version `2024-06 aligned with EpiDoc 9.6`
+## Code and data for the Balbilla project
+
+This repository contains the EpiDoc XML of the poems of Julia Balbilla and customisation of EFES necessary for their display and indexing. It is work in progress.
+
+## EFES: EpiDoc Front-End Services
 
 **EFES is a delivery, search and browse platform that can be set up and customized for an individual EpiDoc XML-based project with only minimal training and technical skill on the part of a project team.**
 
@@ -19,25 +23,6 @@ EFES is a fork of the **Kiln** publication platform, described below.
 ### EFES Users discussion group
 
 * Low-traffic, moderated discussion list: <https://groups.google.com/forum/#!forum/efes-users>
-
-## Kiln
-
-Kiln is an open source multi-platform framework for building and deploying
-complex websites whose source content is primarily in XML. It brings together
-various independent software components into an integrated whole that provides
-the infrastructure and base functionality for such sites.
-
-Kiln is developed and maintained by a team at the King's Digital Lab (KDL), King’s College London. 
-Over the past years and versions, Kiln has been used to generate more than 50 websites
-which have very different source materials and customised
-functionality. It has been adapted to work on a variety of flavours of
-TEI and other XML vocabularies, and has been used to publish data held
-in relational databases.
-
-### Kiln code and documentation
-
-* https://github.com/kcl-ddh/kiln/
-* http://kiln.readthedocs.org/en/latest/
 
 ----
 
